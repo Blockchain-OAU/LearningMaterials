@@ -2,6 +2,6 @@
 
 This is an informational repo that contains learning materials for Web2 and Web3 developrs.
 
-Web2
+[Web2](https://github.com/Blockchain-OAU/LearningMaterials/tree/main)
 
 Web3
