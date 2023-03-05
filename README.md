@@ -20,6 +20,7 @@
 |[What The Flexbox?!](flexbox.io)|Flexbox sure is tricky to learn. Get a grasp on flexbox while learning both the fundamentals and real world applications.|
 |[Flexbox Froggy](https://flexboxfroggy.com/)| This teaches you how to learn the CSS flex property. It's actually fun and you'd definitely enjoy it.|
 |[MDN](https://developer.mozilla.org/en-US/)| A web resource created by Mozilla for learning web development.|
+|[Scrimba](https://scrimba.com/learn/learnjavascript)| Learn the basics of JavaScript by solving 140+ interactive coding challenges and building three fun projects.|
 
 ## Web3
 
